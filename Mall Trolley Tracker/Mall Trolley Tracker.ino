@@ -1,3 +1,10 @@
+/*--------------------------------------------------------*/
+/*                                                        */
+/*  Author: Farhan Tariq Janjua                           */
+/*  Fiverr: https://www.fiverr.com/users/a1_developers/   */
+/*                                                        */
+/*--------------------------------------------------------*/
+
 #include <BLEDevice.h>
 #include <BLEServer.h>
 #include <BLEUtils.h>
